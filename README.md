@@ -1,16 +1,4 @@
 # josn_parse
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1570583604](https://user-images.githubusercontent.com/33086068/66413923-3b004c00-e9ad-11e9-8500-6550a5b46f0c.png)
+![Screenshot_1570583608](https://user-images.githubusercontent.com/33086068/66413924-3b004c00-e9ad-11e9-9dec-e9102e5d23b1.png)
